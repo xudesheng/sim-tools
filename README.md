@@ -18,26 +18,30 @@ The four main tools I'm preparing to share are:
 
 ## Batch Tester
 
-1.) Latest release: https://github.com/xudesheng/sim-tools/releases/tag/batch-tester-v0.1.1
+1. Latest release: https://github.com/xudesheng/sim-tools/releases/tag/batch-tester-v0.1.1
 
-2.) Latest readme: https://github.com/xudesheng/sim-tools/releases/download/batch-tester-v0.1.1/batch-tester-README-v0.1.1.pdf
+2. Latest readme: https://github.com/xudesheng/sim-tools/releases/download/batch-tester-v0.1.1/batch-tester-README-v0.1.1.pdf
+
+3. Latest tutorial guide: https://github.com/xudesheng/sim-tools/releases/download/batch-tester-v0.1.1/batch-tester-tutorial-v0.1.1.pdf
 
 
 
 ## SIM-Thing
 
-1.) Latest release: https://github.com/xudesheng/sim-tools/releases/tag/sim-thing-v0.1.4
+1. Latest release: https://github.com/xudesheng/sim-tools/releases/tag/sim-thing-v0.1.4
 
-2.) Latest readme: https://github.com/xudesheng/sim-tools/releases/download/sim-thing-v0.1.4/sim-thing-README-v0.1.4.pdf
+2. Latest readme: https://github.com/xudesheng/sim-tools/releases/download/sim-thing-v0.1.4/sim-thing-README-v0.1.4.pdf
+
+3. Latest tutorial package: https://github.com/xudesheng/sim-tools/releases/download/sim-thing-v0.1.4/sim-thing-tutorial-v0.1.4.tar.gz
 
 
 
 ## SIM-Kepware
 
-TBD
+Coming soon...
 
 
 
 ## SIM-MQTT
 
-TBD
+Coming soon...
