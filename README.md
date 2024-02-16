@@ -18,11 +18,11 @@ The four main tools I'm preparing to share are:
 
 ## Batch Tester
 
-1. Latest release: https://github.com/xudesheng/sim-tools/releases/tag/batch-tester-v0.1.15
+1. Latest release: https://github.com/xudesheng/sim-tools/releases/tag/batch-tester-v0.1.16
 
-2. Latest readme: https://github.com/xudesheng/sim-tools/releases/download/batch-tester-v0.1.15/batch-tester-README-v0.1.15.pdf
+2. Latest readme: https://github.com/xudesheng/sim-tools/releases/download/batch-tester-v0.1.16/batch-tester-README-v0.1.16.pdf
 
-3. Latest tutorial guide: https://github.com/xudesheng/sim-tools/releases/download/batch-tester-v0.1.15/batch-tester-tutorial-v0.1.15.pdf
+3. Latest tutorial guide: https://github.com/xudesheng/sim-tools/releases/download/batch-tester-v0.1.16/batch-tester-tutorial-v0.1.16.pdf
 
 
 
