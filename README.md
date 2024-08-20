@@ -28,9 +28,9 @@ The four main tools I'm preparing to share are:
 
 ## SIM-Thing
 
-1. Latest release: https://github.com/xudesheng/sim-tools/releases/tag/sim-thing-v0.1.4
+1. Latest release: https://github.com/xudesheng/sim-tools/releases/tag/sim-thing-
 
-2. Latest readme: https://github.com/xudesheng/sim-tools/releases/download/sim-thing-v0.1.4/sim-thing-README-v0.1.4.pdf
+2. Latest readme: https://github.com/xudesheng/sim-tools/releases/download/sim-thing-/sim-thing-README-.pdf
 
 3. Latest tutorial package: https://github.com/xudesheng/sim-tools/releases/download/sim-thing-v0.1.4/sim-thing-tutorial-v0.1.4.tar.gz
 
